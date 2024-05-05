@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# connect to server via ssh bytes
+ssh-keygen -t rsa -b 4096 -f "school" -N "betty"
