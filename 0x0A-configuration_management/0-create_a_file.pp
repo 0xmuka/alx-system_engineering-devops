@@ -1,3 +1,6 @@
+# This Puppet script creates a file in the /tmp directory with specific permissions,
+# owner, group, and content.
+
 file { '/tmp/school':
   ensure  => file,
   content => 'I love Puppet',
