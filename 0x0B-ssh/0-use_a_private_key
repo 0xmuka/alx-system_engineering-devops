@@ -1,1 +1,1 @@
-ssh-copy-id -i ~/.ssh/school ubuntu@34.204.76.171
+ssh -i ~/.ssh/school ubuntu@34.204.76.171
