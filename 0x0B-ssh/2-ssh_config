@@ -1,0 +1,4 @@
+#custom config
+Host 34.204.76.171
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
